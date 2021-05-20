@@ -2,7 +2,7 @@
 - 👀 I’m interested in developer´s carreer
 - 🌱 I’m currently learning react-native, reactjs, python, flask, django
 - 💞️ I’m looking to collaborate on begginers projects
-- 📫 How to reach me send me mail to lekxandy@hotmail.com
+- 📫 Send me an mail to my personal account: lekxandy@hotmail.com
 
 <!---
 alexandersantosdev/alexandersantosdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
