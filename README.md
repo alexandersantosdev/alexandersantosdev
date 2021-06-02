@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexandersantosdev
 - 👀 I’m interested in developer´s carreer
-- 🌱 I’m currently learning react-native, reactjs, python, flask, django
+- 🌱 I’m currently learning Java and Spring, react-native, reactjs, node, python, flask, django
 - 💞️ I’m looking to collaborate on begginers projects
 - 📫 Send me an mail to my personal account: lekxandy@hotmail.com
 
