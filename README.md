@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @alexandersantosdev
-- 👀 I’m interested in developer´s carreer
-- 🌱 I’m currently learning Java and Spring, react-native, reactjs, node, python, flask, django
-- 💞️ I’m looking to collaborate on begginers projects
-- 📫 Send me an mail to my personal account: lekxandy@hotmail.com
+- 👋 Olá sou @alexandersantosdev
+- 👀 Estou em busca do primeiro job dev
+- 🌱 Aprendendo Java e Spring, react-native, reactjs, node, python, flask, django e kotlin
+- 💞️ Gosto de brincar com programação, talvez seja meu novo hobbie.
+- 📫 Contato: lekxandy@hotmail.com
 
 <!---
 alexandersantosdev/alexandersantosdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
