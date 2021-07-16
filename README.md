@@ -13,7 +13,7 @@
 ### Sistemas rodando
 
 -  Portfolio: https://portfolio-pi-pied.vercel.app/ (feito em html5 hospedado na VERCEL)
--  Exemplo 2: https://alexandersantosdev.herokuapp.com/ (Backend em Python Flask e hospedado na HEROKU)
+-  Exemplo 2: https://alexandersantosdev.herokuapp.com/ (Backend em Python Flask, Postgresql e hospedado na HEROKU)
 
 <!---
 alexandersantosdev/alexandersantosdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
