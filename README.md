@@ -6,8 +6,8 @@
 
 ### Redes sociais
 
--  Linkedin:  https://www.linkedin.com/in/alexander-roberto-dos-santos-030bb786/
--  Facebook:  https://pt-br.facebook.com/lekxandy
+-  [Linkedin](https://www.linkedin.com/in/alexander-roberto-dos-santos-030bb786)
+-  [Facebook](https://pt-br.facebook.com/lekxandy)
 -  [Whatsapp](https://api.whatsapp.com/send?phone=5541987138561)
 
 ### Sistemas rodando
