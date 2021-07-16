@@ -3,7 +3,16 @@
 - 🌱 Aprendendo Java e Spring, react-native, reactjs, node, python, flask, django e kotlin
 - 💞️ Gosto de brincar com programação, talvez seja meu novo hobbie.
 - 📫 Contato: lekxandy@hotmail.com
--  Portifolio: https://portfolio-pi-pied.vercel.app/
+
+### Redes sociais
+
+-  Linkedin:  https://www.linkedin.com/in/alexander-roberto-dos-santos-030bb786/
+-  Facebook:  https://pt-br.facebook.com/lekxandy
+
+### Sistemas rodando
+
+-  Portfolio: https://portfolio-pi-pied.vercel.app/ (feito em html5 hospedado na VERCEL)
+-  Exemplo 2: https://alexandersantosdev.herokuapp.com/ (Backend em Python Flask e hospedado na HEROKU)
 
 <!---
 alexandersantosdev/alexandersantosdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
