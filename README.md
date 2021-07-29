@@ -1,7 +1,7 @@
 - 👋 Olá sou @alexandersantosdev
 - 👀 Estou em busca do primeiro job dev
-- 🌱 Aprendendo Java e Spring, react-native, reactjs, node, python, flask, django e kotlin
-- 💞️ Gosto de brincar com programação, talvez seja meu novo hobbie.
+- 🌱 Aprendendo Java e Spring, react-native, reactjs, node, python, flask, django
+- 💞️ Gosto de brincar com programação, talvez seja meu novo hobby.
 - 📫 Contato: lekxandy@hotmail.com
 
 ### Redes sociais
