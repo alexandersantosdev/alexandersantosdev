@@ -4,7 +4,9 @@
 
 - Alguns desenvolvimentos que participei das integrações, dos canais de vendas: Amazon, Shopee, Olist, Renner, Riachuelo, Loja integrada, Linx, AnyMarket, CWS, Magento 2 e TrayCommerce, dos Erps: Bling, Tiny, DataSul e Wk e dos serviços de cotações de frete: Frenet e Vipp.
 
-- Contato: lekxandy@hotmail.com - [whatsapp](https://api.whatsapp.com/send?phone=5541987138561&text=Ola)
+- Contatos: 
+  --lekxandy@hotmail.com / lekxandy@gmail.com
+  --[whatsapp](https://api.whatsapp.com/send?phone=5541987138561&text=Ola)
 
 ### Redes sociais
 
