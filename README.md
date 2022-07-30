@@ -1,8 +1,9 @@
-- Me chamo Alexander Roberto dos Santos e atualmente estou trabalhando com NodeJS no backend, jquery, html/css/javascript e ReactJS no front end.
-- Desenvolvi projetos de integração de marketplaces, erps e serviços de cotação de frete na empresa que trabalho (hub integrador vtrina.com).
-- Atuei no desenvolvimento das integrações dos canais de vendas: Amazon, Shopee, Olist, Renner, Riachuelo, Loja integrada, Linx, AnyMarketIntegração, CWS, Magento 2, TrayCommerce.
-- Erps: Bling, Tiny, DataSul, Wk.
-- Cotações de frete: Frenet e Vipp.
+- Me chamo Alexander Roberto dos Santos e atualmente estou trabalhando com NodeJS, mongodb e docker no backend, jquery, html/css/javascript e ReactJS no front end.
+
+- Atuei nos projetos de integração de marketplaces, erps e serviços de cotação de frete na empresa que trabalho (hub integrador vtrina.com).
+
+- Alguns desenvolvimentos que participei das integrações, dos canais de vendas: Amazon, Shopee, Olist, Renner, Riachuelo, Loja integrada, Linx, AnyMarket, CWS, Magento 2 e TrayCommerce, dos Erps: Bling, Tiny, DataSul e Wk e dos serviços de cotações de frete: Frenet e Vipp.
+
 - Contato: lekxandy@hotmail.com - [whatsapp] (https://api.whatsapp.com/send?phone=5541987138561&text=Ola)
 
 ### Redes sociais
